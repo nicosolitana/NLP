@@ -1,0 +1,1 @@
+Habagat-FastTweet pretrained FastText models are private.
