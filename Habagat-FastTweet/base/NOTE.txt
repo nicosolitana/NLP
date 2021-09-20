@@ -1,0 +1,2 @@
+Base FastText Model can be downloaded on:
+https://fasttext.cc/docs/en/crawl-vectors.html
